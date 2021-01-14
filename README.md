@@ -1,4 +1,4 @@
 # Project UNIX: Guessing Game
-Date and time **make** was run: date +%A, %m %d %Y %H:%M:%S 
+Thursday, 01 14 2021 13:05:34
 Number of lines of code: 19
 Number of lines of code with space: 22
