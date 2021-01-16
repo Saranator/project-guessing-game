@@ -5,4 +5,4 @@ README.md:
 	date +"%A, %m %d %Y %H:%M:%S" >> README.md
 
 	echo "##Number of lines of code: " >> README.md
-	echo "23"
+	echo "23" >> README.md
